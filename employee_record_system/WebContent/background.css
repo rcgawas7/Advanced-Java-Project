@@ -1,0 +1,43 @@
+@charset "ISO-8859-1";
+
+body{
+  height: 200px;
+  background-color: #cccccc;
+  
+   background-image: url("employee-record-system.jpg");
+  background-color: #cccccc; 
+  height: 505px;
+
+  background-position: center; 
+  background-repeat: no-repeat;
+  background-size: cover; 
+ 
+}
+
+table{
+	
+	margin-top: 20px;
+	
+	color: black;
+	
+	
+	
+	
+	
+}
+
+h1{
+	
+	color: red;
+	
+}
+
+h2{
+	
+	color: black;
+	margin-top: 150px;
+	
+}
+h3{
+	color: black;
+}
